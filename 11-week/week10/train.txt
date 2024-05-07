@@ -1,0 +1,8 @@
+This is a sample text file used for fine-tuning the Large Language Model (LLM).
+The purpose of this exercise is to demonstrate how to train the LLM on a custom dataset.
+Fine-tuning allows the LLM to adapt to specific tasks or domains by learning from new data.
+
+In this example, we'll use a small dataset consisting of sentences and short paragraphs.
+Each line of the text file represents a sequence of text that the LLM will learn from during training.
+
+Feel free to replace this sample text with your own dataset for fine-tuning the LLM on a specific domain or task.
